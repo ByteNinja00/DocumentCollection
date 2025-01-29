@@ -33,3 +33,4 @@ python demo/app_januspro.py
 ```
 python demo/app_januspro.py --device cuda
 ```
+安装完成以后，根据提示打开本地链接：http://127.0.0.1:7860 即可进入到使用面板
